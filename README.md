@@ -80,6 +80,7 @@ https://github.com/user-attachments/assets/5e3c6c24-d6f3-4bc2-b803-5a616be097cf
 
 -   서울시 열린데이터 광장\
     https://data.seoul.go.kr/dataList/OA-15248/F/1/datasetView.do
+    csv파일은 용량이 커서 zip파일 안에 있습니다.!
 -   Streamlit 공식 문서\
     https://streamlit.io
 
